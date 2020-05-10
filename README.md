@@ -1,4 +1,4 @@
-A version of a program proposed in Chapter 8 of The Rust Programming Language Book.
+A version of a program proposed in Chapter 8 of *The Rust Programming Language* Book.
 Converts any word to [Pig Latin](https://en.wikipedia.org/wiki/Pig_Latin).
 
 Options to run:
